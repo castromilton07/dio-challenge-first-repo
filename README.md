@@ -1,4 +1,4 @@
-# Repositório do Desafio de GitHub na [dio](https://digitalinnovation.one) :rocket:
+# Repositório do Desafio de Git/GitHub na [DIO](https://digitalinnovation.one) :rocket:
 
 ### Autor: Milton Castro
 #### ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [castromilton07](https://github.com/castromilton07)
