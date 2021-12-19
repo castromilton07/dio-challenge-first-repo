@@ -15,9 +15,9 @@
 - [ ] 13. Fundamentos de Coleções e LINQ com .NET (**5h**)
 - [ ] 14. Introdução a microsserviços com .NET (**2h**)
 - [ ] 15. Introdução a Design Patterns com .NET (**2h**)
-- [ ] 16. Mentoria #2: Como resolver o desafio de código (**2h**)
+- [x] 16. Mentoria #2: Como resolver o desafio de código (**2h**) :white_check_mark:
 - [ ] 17. Mentoria #3: Tire suas dúvidas sobre a programação orientada a objetos com exemplos práticos (**2h**)
-- [ ] 18. Mentoria #4: Inclusão e Diversidade na Avanade (**2h**)
+- [x] 18. Mentoria #4: Inclusão e Diversidade na Avanade (**2h**) :white_check_mark:
 - [ ] 19. Mentoria #5: Testes de Software em .NET. Exemplos de utilização com experts da AVANADE (**2h**)
 - [ ] 20. Programando em C# (**2h**)
 - [ ] 21. Criando um APP simples de cadastro de séries em .NET (**1h**)
