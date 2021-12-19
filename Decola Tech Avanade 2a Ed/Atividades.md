@@ -25,6 +25,7 @@
 - [ ] 23. Modelando um banco de dados na prática com SQL SERVER (**2h**)
 - [ ] 24. SQL Server: Boas práticas em bancos relacionais (**2h**)
 - [ ] 25. Criando uma API REST Simples com .NET Core (**2h**)
+
 - [ ] Extra. Mentoria #7: Finalizando o Decola Tech.  A um passo de ser sangue laranja! (**2h**)
 
-### Carga horária total: **62 horas**
+### Carga horária total: **60 horas**
